@@ -1,5 +1,11 @@
 # cosmic_tour
-Верстка сайта. Если нужна данная верстка, то свяжитесь со мной контакт для связи, 
-в теме пожалуйста укажите что с GitHub по интересующей верстке. 
-mark545154@mail.ru
-Посмотреть как выглядит верстка можно по ссылке https://mark545154.github.io/cosmic_tour/
+This project used:
+1. HTML5 website layout
+2. CSS (styles)
+3. jQuery (plugin)
+4. Slider
+5. Adding fonts (for a pleasant impression of the presented page)
+6. Adaptive for mobile version
+7. Used figma layout
+
+This work was done to increase the portfolio.
